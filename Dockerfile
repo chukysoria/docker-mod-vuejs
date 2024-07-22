@@ -2,7 +2,7 @@
 FROM alpine as BUILD
 
 # set version label
-ARG BUILD_EXT_RELEASE="v2.10.2"
+ARG BUILD_EXT_RELEASE="v2.11.0"
 
 # extract vuetorrent
 RUN \
