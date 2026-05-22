@@ -3,6 +3,6 @@ image: docker-mod-vuetorrent
 version: v0.4.21
 name: docker-mod-vuetorrent
 description: "The [Qbittorrent](https://www.qbittorrent.org/) project aims to provide an open-source software alternative to µTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library."
-ext_release: "v2.33.0"
+ext_release: "v2.34.0"
 arch:
   - all
