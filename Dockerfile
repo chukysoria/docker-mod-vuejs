@@ -2,7 +2,7 @@
 FROM alpine@sha256:294b683cb724975bec92580e1e685676bd4b50bda910ddb8c51d4cabeaec77e6 as BUILD
 
 # set version label
-ARG BUILD_EXT_RELEASE="v2.35.0"
+ARG BUILD_EXT_RELEASE="v2.36.1"
 # extract vuetorrent
 RUN \
   echo "***** install vuetorrent ****" && \
